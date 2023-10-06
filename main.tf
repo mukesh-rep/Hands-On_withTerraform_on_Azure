@@ -22,7 +22,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name     = "ti7VC3l1LVvCyA.atlasv1.tPGTpUJZojoqL8uelY96H64LG0a2v1b0W9l3GZTeuzdm9HLlf3209qm2QpEJNld3BhQ"
+  name     = "813-ca6f1da2-hands-on-with-terraform-on-azure"
   location = "West US"
 
 }
